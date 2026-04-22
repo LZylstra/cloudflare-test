@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	// noop: trigger build (2026-04-21)
+	// noop: trigger build
 	"name": "royal-cherry-27f5",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-04-13",
